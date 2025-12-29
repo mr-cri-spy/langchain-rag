@@ -19,4 +19,4 @@ python create_database.py
 Query the database
 Query the Chroma DB.
 
-python query_data.py "How does Alice meet the Mad Hatter?"
+python query_data.py "how many country in this world?"
